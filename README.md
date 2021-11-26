@@ -2,8 +2,7 @@
 2021 FALL ECE668 PROJECT
 
 ## Design Goal
------
+Simulate a MIPS processor with Tomasulo algorithm
 ## Modules
 -----
-## References
------
+Registers, InstTable, RS
