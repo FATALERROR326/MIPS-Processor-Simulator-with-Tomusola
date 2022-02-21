@@ -3,5 +3,4 @@
 
 ## Design Goal
 Simulate a MIPS processor with complete pipeline and hazard management
-## Modules
 -----
